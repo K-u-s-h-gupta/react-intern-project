@@ -1,0 +1,10 @@
+body{
+  font-family: 'Roboto';
+}
+.App{
+  display: flex;
+}
+.board{
+  width:100%;
+  padding: 20px;
+}
